@@ -7,8 +7,8 @@ In the future it will feature a variety of totally legally obtained furry models
 <img src="https://i.imgur.com/NGxkS0H.png" width="455" height="280">
 A screenshot of the sdk.
 
-
-
+ 
+ 
 ![alt text](https://media.discordapp.net/attachments/991794318220210258/996745187609034833/2.png)
 
 The result of young developers with too much time on their hands and little to no money to buy models and shaders with.
