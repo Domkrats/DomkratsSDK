@@ -3,7 +3,7 @@
 
 ### A basic modified VRChat SDK with download links to a variety of plugins and shaders for free. 
 In the future it will feature a variety of totally legally obtained furry models as well as more general features.
-
+![alt text](https://i.imgur.com/NGxkS0H.png)
 
 ![alt text](https://media.discordapp.net/attachments/991794318220210258/996745187609034833/2.png)
 
@@ -14,3 +14,5 @@ The main reason I wanted to found this is that avatar/shader creators are making
 
 We are a small, open source SDK ran by developers you can trust. We aren't owned by a sketchy group or anything like a gang.
 Feel free to look through our unobfuscated source code.
+
+
