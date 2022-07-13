@@ -1,8 +1,8 @@
 
 ![alt text](https://media.discordapp.net/attachments/991794318220210258/996744531527610418/SDK_Panel_Banner.png)
 
-### A basic modified VRChat SDK with download links to a variety of plugins and shaders for free. 
-In the future it will feature a variety of totally legally obtained furry models as well as more general features.
+### A basic modified VRChat SDK with download links to a variety of plugins, avatars and shaders for free. 
+In the future it will feature more avatars, shaders and plugins.
 
 <img src="https://i.imgur.com/NGxkS0H.png" width="455" height="280">
 A screenshot of the sdk.
