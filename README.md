@@ -9,3 +9,8 @@ In the future it will feature a variety of totally legally obtained furry models
 
 The result of a young developer with too much time on his hands and little to no money to buy models and shaders with.
 The main reason I wanted to make this is that avatar/shader creators are making their costs way too high and Domkrats SDK is here to rectify that.
+
+![alt text](https://i.ibb.co/Zf8RbHd/3.png)
+
+We are a small, open source SDK ran by developers you can trust. We aren't owned by a sketchy group or anything like a gang.
+Feel free to look through our unobfuscated source code.
