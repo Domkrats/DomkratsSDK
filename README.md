@@ -4,7 +4,7 @@
 ### A basic modified VRChat SDK with download links to a variety of plugins, avatars and shaders for free. 
 In the future it will feature more avatars, shaders and plugins.
 
-<img src="https://i.imgur.com/NGxkS0H.png" width="455" height="280">
+<img src="https://images-ext-1.discordapp.net/external/Uj5seJuxtqEuxgZDWs-frPC5yBr93rR78qXM0cpYs3A/https/i.imgur.com/z344s3n.png?width=1070&height=676" width="455" height="280">
 *Screenshot is outdated as the SDK now has more avatar bases/plugins/shaders.
 
 
